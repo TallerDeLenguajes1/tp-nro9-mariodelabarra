@@ -1,0 +1,7 @@
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro9-mariodelabarra\TP9_delaBarra\TP9\bin\Debug\TP9.exe.config
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro9-mariodelabarra\TP9_delaBarra\TP9\bin\Debug\TP9.exe
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro9-mariodelabarra\TP9_delaBarra\TP9\bin\Debug\TP9.pdb
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro9-mariodelabarra\TP9_delaBarra\TP9\obj\Debug\TP9.csprojAssemblyReference.cache
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro9-mariodelabarra\TP9_delaBarra\TP9\obj\Debug\TP9.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro9-mariodelabarra\TP9_delaBarra\TP9\obj\Debug\TP9.exe
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro9-mariodelabarra\TP9_delaBarra\TP9\obj\Debug\TP9.pdb
